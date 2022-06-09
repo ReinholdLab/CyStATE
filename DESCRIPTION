@@ -2,7 +2,7 @@ Package: CyStATE
 Title: Cybersecurity Static Analysis Tool Evaluation
 Version: 0.0.1
 Authors@R: 
-    person("Ann Marie", "reinhold", , "reinhold@montana.edu", role = c("aut", "cre"))
+    person("Ann Marie", "Reinhold", , "reinhold@montana.edu", role = c("aut", "cre"))
 Description: Evaluate and compare static analysis tools used for cybersecurity quality assurance.
 License: MIT + file LICENSE
 Encoding: UTF-8
